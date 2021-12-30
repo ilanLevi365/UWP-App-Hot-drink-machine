@@ -1,0 +1,120 @@
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\App.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\MainPage.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.xr.xml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.pdb
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\resources.pri
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\AppxManifest.xml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Core\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.build.appxrecipe
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\System.Runtime.dll
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\App.g.i.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\App.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\App.xaml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.xaml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\App.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csproj.CoreCompileInputs.cache
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csproj.CopyComplete
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.pdb
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\priconfig.xml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\resources.resfiles
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\pri.resfiles
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\qualifiers.txt
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Customer_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.g.i.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.xaml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Management_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.g.i.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.xaml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\bin\x86\Debug\Start_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.g.i.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.g.cs
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.xaml
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.xbf
+C:\Users\il365\Desktop\Drinks_Vending_Machine__\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csprojAssemblyReference.cache
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\App.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Customer_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\MainPage.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Management_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Start_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.xr.xml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.pdb
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\resources.pri
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\AppxManifest.xml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Core\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Drinks_Vending_Machine__.build.appxrecipe
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\System.Runtime.dll
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csprojAssemblyReference.cache
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\App.g.i.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\App.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.g.i.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.g.i.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.g.i.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\App.xaml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.xaml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.xaml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.xaml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.xaml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\App.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Customer_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\MainPage.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Management_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Start_Screen.xbf
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csproj.CoreCompileInputs.cache
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.csproj.CopyComplete
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.exe
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\Drinks_Vending_Machine__.pdb
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\priconfig.xml
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\resources.resfiles
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\pri.resfiles
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\qualifiers.txt
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\il365\Desktop\פרוייקטים\מכונת שתיה חמה\Drinks_Vending_Machine__\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
